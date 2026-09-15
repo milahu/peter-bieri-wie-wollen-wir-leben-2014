@@ -79,28 +79,41 @@ args += [
     "--text-format", "html",
     # TODO? move these config items to 000-config.py
     "--doc-modified", doc_modified,
-]
-
-
-todo_args = [
-    "--doc-title", "",
-    "--doc-subtitle", "",
+    "--doc-title", "Wie wollen wir leben?",
+    # "--doc-subtitle", "",
     # "--doc-subject", "",
-    "--doc-date", "2025",
-    "--doc-edition", "1",
-    "--doc-extent", "123 pages",
-    "--color-image-pages", "124,125",
-    "--doc-author", "",
+    "--doc-date", "2014",
+    "--doc-edition", "3",
+    "--doc-extent", "96 pages",
+    "--color-image-pages", "97,98",
+    "--doc-author", "Peter Bieri",
     # "--doc-introducer", "",
     # "--doc-contributor", "",
     # "--doc-translator", "",
-    "--doc-publisher", "",
+    "--doc-publisher", "Deutscher Taschenbuch Verlag",
     "--doc-language", "de", # german
     # "--doc-language", "en", # english
-    "--doc-isbn", "0000000000000",
-    "--doc-cover-image", "072-deskew-fix-page-size/999.tiff",
-    "--canonical-url-base", "https://TODO_REPO_OWNER_USERNAME.github.io/TODO_REPO_NAME/",
+    "--doc-isbn", "9783423348010",
+    "--doc-cover-image", "0663-level/097.tiff",
+    "--canonical-url-base", "https://milahu.github.io/peter-bieri-wie-wollen-wir-leben-2014/",
     "--doc-description", """
+**Erkenne dich selbst!**
+
+Spätestens seit der Aufklärung sind Selbstbestimmung, Vernunft und freier Wille
+wesentlich für ein würdiges, zufriedenes, glückliches Leben.
+
+Doch was genau bedeutet das?
+Wie hängen Selbsterkenntnis und Selbstbestimmung zusammen?
+
+Unser Denken, Fühlen und Handeln sind ja auch von äußeren Umständen geprägt.
+Wie können wir trotzdem Einfluss auf unser Leben nehmen,
+sodass es uns nicht einfach nur zustößt?
+
+Welche Rolle spielen die anderen,
+und wie kann es gelingen, das was wir wollen in Einklang mit unserer Umgebung zu bringen?
+
+Anschaulich und abwechslungsreich erkundet Peter Bieri diese Kernthemen der menschlichen Existenz
+und regt dazu an, zum Verfasser der eigenen Lebensgeschichte zu werden.
 """,
 ]
 
