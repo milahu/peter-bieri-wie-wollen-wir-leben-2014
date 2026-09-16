@@ -54,6 +54,11 @@ und regt dazu an, zum Verfasser der eigenen Lebensgeschichte zu werden.
 TODO_BOOK_TORRENT_MAGNET_LINK
 ```
 
+## making of
+
+- https://www.youtube.com/watch?v=GWvEODR9oL4&list=PLS9_HdRCFIZ0
+  - HassDruck 3: buch entbinden und scannen: Peter Bieri - Wie wollen wir leben? (2014)
+
 ## mirrors
 
 - https://github.com/milahu/peter-bieri-wie-wollen-wir-leben-2014
